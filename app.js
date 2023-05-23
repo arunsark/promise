@@ -86,5 +86,5 @@ function otherPromises() {
     } catch(error) {}
 }
 
-//promiseLand()
+promiseLand()
 otherPromises()
